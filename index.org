@@ -1,0 +1,61 @@
+#+TITLE: DPSG Stamm St. Pius Ingolstadt
+#+OPTIONS: num:nil
+#+AUTHOR: DPSG Stamm St. Pius Ingolstadt
+#+EXPORT_FILE_NAME: /home/stockente/Dokumente/Pfadfinder Webseite/Projekte/html/index.html
+#+SETUPFILE: retro_dark.theme
+#+OPTIONS: toc:nil
+[[file:Stammeslogo2.png]]
+
+
+* Über uns
+
+Der DPSG Stamm St. Pius in Ingolstadt wurde im Jahr 1962 gegründet und gehört zur katholischen Kirchengemeinde St. Pius im  Norden der Stadt.
+Dort befindet sich auch unser Gruppenraum, wo wir uns wöchentlich zur Gruppenstunde treffen.
+Neben den wöchentlichen Gruppenstunden veranstalten wir über das Jahr verteilt verschiedene Aktionen.
+Das Stammeslager im Sommer und das Stammeswochenende im Herbst sind dabei meist die Höhepunkte im Stammesalltag. Aber auch bei Veranstaltungen auf Diözesanebene, bei der 72h-Aktion des BDKJ und beim Pfarrfest der Gemeinde waren und sind wir dabei.
+
+Weitere Informationen gibt es auf Instagram:
+
+[[file: https://instagram.com/dpsg_stpius?utm_medium=copy_link][Instagram]]
+
+
+* Du hast Lust das mal näher kennenzulernen?
+file:Plakat.png
+
+
+* Gruppenstunden
+
++ Wölflinge (ab 6 Jahren): Dienstag  17:30 - 19:00 Uhr
++ Rover (ab 15 Jahren): Donnerstag  20:30 - 22:00 Uhr
+
+
+* Anmeldung
+
+Hier könnt Ihr euch die Anmeldung herunterladen. Bitte schickt die augefüllte Version an die E-Mail-Adresse.
+
+[[file:Anmeldebogen_St. Pius.pdf][Anmedlung]]
+
+
+* [[file:Datenschutzerklärung.org][Datenschutzerklärung]]
+
+
+* Kontakt
+
+stamm.pius@dpsg-eichstaett.de
+
+
+* Impressum
+
+Angaben gemäß § 5 TMG
+
++ DPSG Stamm St. Pius Ingolstadt
++ Richard-Wagner-Straße 26
++ 85057 Ingolstadt
+
+Vertretung durch den Stammesvorstand: Jonas Engelbrecht und Jakob Neufanger
+
+Adresse des Stammesvorstands
+
++ Jonas Engelbrecht
++ Oberer Graben 63
++ 85049 Ingolstadt
