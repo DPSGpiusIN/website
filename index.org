@@ -1,7 +1,7 @@
 #+TITLE: DPSG Stamm St. Pius Ingolstadt
 #+OPTIONS: num:nil
 #+AUTHOR: DPSG Stamm St. Pius Ingolstadt
-#+EXPORT_FILE_NAME: /home/stockente/Dokumente/Pfadfinder Webseite/Projekte/html/index.html
+#+EXPORT_FILE_NAME: /home/egger/Dokumente/Padfinder Website 24.02.2024/Pfadfinder Webseite/Projekte/html/index.html
 #+SETUPFILE: retro_dark.theme
 #+OPTIONS: toc:nil
 [[file:Stammeslogo2.png]]
@@ -19,8 +19,18 @@ Weitere Informationen gibt es auf Instagram:
 [[file: https://instagram.com/dpsg_stpius?utm_medium=copy_link][Instagram]]
 
 
-* Du hast Lust das mal näher kennenzulernen?
+* Leiten bei den Pfadfindern?
+
 file:Plakat.png
+file:Plakat2.png
+file:Plakat3.png
+
+
+* Du hast Lust das mal näher kennenzulernen?
+
+Die DPSG-Pfadfinderschaft St.Pius lädt Dich ein, die Rolle des Pfadfinderleiters vertieft kennenzulernen. Einen Monat lang werden wir uns wöchentlich damit beschäftigen, wie ein Pfadfinderleiter jungen Menschen im Zugang zur eigenen Persönlichkeit und die Entwicklung zu der Person, die in Ihnen angelegt ist, unterstützt. Dabei lernst Du neben Persönlichkeits- und Gruppentheorien auch praktische Elemente kennen, um den Weg des Grüpplings zu begleiten. Natürlich sollst Du nach unserer Schnupperleiterrunde nicht die Verantwortung eines Pfadfinderleiters voll übernehmen können - dazu gibt es weiterführende Qualifikationen. Hier geht es - wie der Name schon sagt - um ein Schnuppern!
+
+Wir freuen uns auf DICH!
 
 
 * Gruppenstunden
